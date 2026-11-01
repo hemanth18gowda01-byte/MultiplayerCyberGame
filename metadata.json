@@ -1,0 +1,6 @@
+{
+  "name": "Party Clash - Real-Time Multiplayer Party Game",
+  "description": "Cross-device multiplayer party game with live rooms, rapid trivia, bluff showdowns, doodle battles, and real-time lobby.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
