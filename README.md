@@ -2,7 +2,7 @@
 
 A real-time multiplayer capture-the-flag riddle game built with React, TypeScript, Express, and WebSockets. Compete individually or in teams to solve challenges in cryptography, cybersecurity, mathematics, and digital forensics.
 
-[Hosted frontend](https://cyberchall.netlify.app) · [Source code](https://github.com/hemanth18gowda01-byte/MultiplayerCyberGame)
+[App Link](https://multiplayercybergame.onrender.com/) · [Source code](https://github.com/hemanth18gowda01-byte/MultiplayerCyberGame)
 
 > The current Netlify configuration publishes the frontend only. Multiplayer requires the Express/WebSocket server described in [Deployment](#deployment).
 
